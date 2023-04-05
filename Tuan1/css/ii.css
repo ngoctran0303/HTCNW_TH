@@ -1,0 +1,81 @@
+.heading {
+  text-align: center;
+}
+.A {
+  text-align: center;
+}
+.B {
+  text-align: right;
+}
+.disabled {
+  pointer-events: none;
+  opacity: 0;
+}
+
+table {
+  background-color: #e5dcb3;
+}
+
+tr {
+  border: 5px solid #d7bda6;
+  border-style: outset;
+}
+
+.aa td {
+  background: white;
+  border: 3px solid #d7bda6;
+}
+.with td{
+  background-color:azure;
+  
+}
+.dd td {
+  background-color: burlywood;
+  border-top: 1.5px solid #0b0b0a;
+  border-left: 1.5px solid #0b0b0a;
+  border-bottom: 1.5px solid #8f8f83;
+  border-right: 1.5px solid #8f8f83;
+ 
+}
+
+#bbbb td {
+  background: #feff99;
+}
+
+#bbbb #cccc {
+  background: #8fffff;
+}
+
+#organe {
+    background: orange;
+}
+
+#yellow {
+  background: yellow;
+}
+
+
+.container {
+  display: table;
+  height: 100%;
+  width: 100%;
+}
+
+section div left-half {
+  text-align: left;
+  vertical-align: middle;
+}
+
+
+section div right-half {
+  text-align: right;
+  vertical-align: middle;
+}
+
+.matcuoi {
+  width: 50px;
+  height: 50px;
+}
+
+
+
